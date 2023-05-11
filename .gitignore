@@ -1,0 +1,16 @@
+#  Local .terraform directories
+**/.terraform/*
+**/terraform.plan
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Other stuff
+.DS_Store
+.idea
+/.gtm/
+
+.kitchen/
+test/assets/
+test/integration/default/instana_api_token.yml
