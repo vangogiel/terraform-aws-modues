@@ -1,0 +1,11 @@
+variable "region" {}
+variable "environment" {}
+variable "key_name" {}
+variable "public_key" {}
+variable "db_username" {}
+variable "db_password" {}
+variable "db_port" {}
+variable "db_engine" {}
+variable "db_engine_version" {}
+variable "db_instance_class" {}
+variable "db_allocated_storage" {}
